@@ -1,4 +1,5 @@
 # Rock-Papers-and-Scissors-game
+
 Created a basic Rock, Paper and Scissors game, Completely coded in HTML, CSS and Vanilla Javascript without using any libraries.
 
 This invloves basic DOM Manipulation and some basic Javascript functionalities
@@ -7,7 +8,7 @@ This invloves basic DOM Manipulation and some basic Javascript functionalities
 
 
 
-ROCK, PAPER AND SCISSORS GAME DEMO AND PREVIEW
+ROCK, PAPER AND SCISSORS GAME DEMO AND PREVIEW :
 
 LINK : https://rockpaperscissors-javascript-project.saivarun10.repl.co/
 
